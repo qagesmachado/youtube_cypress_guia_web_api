@@ -1,4 +1,5 @@
 # Cypress Guia WEB e API
+Playlist: [Guia - Cypress Web e API](https://www.youtube.com/playlist?list=PLVQdoQTyi01hAYibssFzQRhFkt4GaW78c)
 
 ## Como instalar
 - npm install cypress --save-dev
