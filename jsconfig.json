@@ -1,0 +1,5 @@
+{
+    "include": ["./node_modules/cypress", "cypress/**/*.js"]
+}
+
+//https://docs.cypress.io/app/tooling/IDE-integration

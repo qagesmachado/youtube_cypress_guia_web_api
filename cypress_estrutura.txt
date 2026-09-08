@@ -1,0 +1,11 @@
+/seu-projeto
+│-- cypress/
+│   │-- e2e/           # Onde ficam os testes de ponta a ponta (E2E)
+│   │-- fixtures/      # Arquivos JSON ou outros dados estáticos simulando respostas de API
+│   │-- support/       # Arquivos de suporte, como comandos customizados e configurações globais
+│   │-- downloads/     # Pasta gerenciada pelo Cypress para arquivos baixados durante os testes
+│   │-- screenshots/   # Capturas de tela tiradas automaticamente quando um teste falha
+│   │-- videos/        # Gravações dos testes (se habilitado)
+│-- cypress.config.js  # Arquivo de configuração do Cypress
+│-- package.json       # Dependências do projeto, incluindo o Cypress
+│-- node_modules/      # Módulos instalados via npm
